@@ -1,15 +1,15 @@
 {
   "schema_version": "1",
   "open_source": true,
-  "model_name": "poker44-base-detector",
+  "model_name": "poker44-wave-detector",
   "model_version": "1",
   "framework": "mlp",
   "license": "MIT",
   "repo_url": "https://github.com/SnowWhiteTx/poker-d2",
   "repo_commit": "",
-  "artifact_sha256": "b8428b0c3693057c2c1267e6cd99af820126bb00a77da85243b54f38b872c18e",
+  "artifact_sha256": "39a307d1e671a48e3de6d0837d47615e2f99a2f0660c61a3830519fbd43f7475",
   "artifact_basename": "current.joblib",
-  "implementation_sha256": "945d12f0dc2d24d9d241720050bd0225db5515441ea0e367dd16b1f3734622f0",
+  "implementation_sha256": "695d7f855e1d371e61f284a276127aaaa1ff6639a85c556e4c8e782feda88d64",
   "implementation_files": [
     "neurons/miner.py",
     "poker44_ml/inference.py",
